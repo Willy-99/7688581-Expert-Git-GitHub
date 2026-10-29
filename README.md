@@ -14,6 +14,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 Aucun prérequis particulier n'est demandé sur ce projet.
 
 Il faudrait les définir
+Un serveur web (xampp)
 
 ```
 
